@@ -148,6 +148,17 @@ CLIENT_URL=http://localhost:5173
 * Role management (e.g., moderators)
 * Deployment CI/CD setup (Render, Vercel, or Netlify)
 
+
+---
+
+## 🤝 Developer Notes
+
+* Keep `auth-middleware` updated when changing token logic
+* Admin access tied to user role field in `user-model.js`
+* Always update both client and server `.env` before deployment
+* When in doubt, check the route controllers first — they define most logic cleanly
+
+
 ---
 
 ## 👨‍💻 Author
@@ -160,14 +171,6 @@ CLIENT_URL=http://localhost:5173
 
 💼 Software Developer | Web Engineer | PHP & JavaScript Enthusiast
 
----
-
-## 🤝 Developer Notes
-
-* Keep `auth-middleware` updated when changing token logic
-* Admin access tied to user role field in `user-model.js`
-* Always update both client and server `.env` before deployment
-* When in doubt, check the route controllers first — they define most logic cleanly
 
 ---
 
