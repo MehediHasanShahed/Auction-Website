@@ -150,7 +150,7 @@ CLIENT_URL=http://localhost:5173
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Mehedi Hasan Shahed**
 
