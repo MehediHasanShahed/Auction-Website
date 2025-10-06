@@ -150,10 +150,15 @@ CLIENT_URL=http://localhost:5173
 
 ---
 
-## 🪪 License
+## Author
 
-Internal project — use freely within your organization.
-For open-source use, add a proper LICENSE file.
+**Mehedi Hasan Shahed**
+
+* **Email:** [mehedihasanshahed3@gmail.com](mailto:mehedihasanshahed3@gmail.com)
+
+* **LinkedIn:** [Mehedi Hasan Shahed](https://www.linkedin.com/in/mehedi-hasan-153404287/)
+
+💼 Software Developer | Web Engineer | PHP & JavaScript Enthusiast
 
 ---
 
@@ -163,3 +168,10 @@ For open-source use, add a proper LICENSE file.
 * Admin access tied to user role field in `user-model.js`
 * Always update both client and server `.env` before deployment
 * When in doubt, check the route controllers first — they define most logic cleanly
+
+---
+
+## 🪪 License
+
+Internal project — use freely within your organization.
+For open-source use, add a proper LICENSE file.
